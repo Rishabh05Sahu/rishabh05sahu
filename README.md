@@ -30,7 +30,7 @@
 ###
 
 <h4 align="left">🚀 Final year student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, specializing in Computer Science.
-<br><br>✨ Seeking an internship/full-time opportunity in the software industry. Passionate about building impactful products and contributing through technical skills and design. As a fresher, eager to gain hands-on experience in a growth-oriented and challenging environment.</h4>
+<br><br>✨ Seeking an internship/full-time opportunity in the software industry. Passionate about building impactful products and contributing through technical skills. As a fresher, eager to gain hands-on experience in a growth-oriented and challenging environment.</h4>
 
 ###
 
