@@ -12,7 +12,7 @@
   <a href="mailto:rishabhsahu13873@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/muskan-mandil/](https://www.linkedin.com/in/rishabh-sahu14/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/rishabh-sahu14/](https://www.linkedin.com/in/rishabh-sahu14/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@
 ###
 
 <p align="left">
-<br>- 💻 Skilled as a Full Stack Developer with expertise in front-end development. Competent in React.js, Node.js, Express.js, and MongoDB.
+<br>- 💻 Skilled as a Full Stack Developer with expertise in front-end development. Competent in React.js, Next.js, Node.js, Express.js, and MongoDB.
 <br>- 🌟 Proficient in C++ with a strong foundation in Data Structures & Algorithms. Familiar with OOP concepts, with a solid understanding of all computer science fundamentals.
 <br>- 🔥 I thrive on creating innovative web solutions and look forward to contributing to dynamic teams and exciting projects. 
 <br>- 🌱 Eager to contribute technical skills and creativity to a collaborative environment. 
@@ -64,6 +64,10 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
